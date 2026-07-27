@@ -1,213 +1,81 @@
 Nightframe Linux
+Built for Gaming. Ready for AI.
 
-Nightframe Linux is a gaming and local AI distribution focused on privacy, performance, workload control, and a clean futuristic desktop.
+A privacy-focused Linux distribution with gaming tools, local AI, system monitoring, and intelligent workload management.
 
-Download Nightframe · Join Discord
+🎮 Gaming Ready
 
-Highlights
-
-Gaming
+Nightframe includes the tools needed for modern Linux gaming:
 
 Steam
-
 Proton support
-
 Wine
-
 Bottles
-
 Lutris
-
 ProtonUp-Qt
-
 Game controller support
+GameMode integration
+NVIDIA and AMD graphics support
 
-Local AI
+🤖 Private Local AI
+Run AI models directly on your own computer without depending on cloud services.
 
 Alpaca preinstalled
-
 Ollama integration
-
 Local model support
-
-Private AI workflows
-
+Private AI conversations
 AI services start only when needed
+GPU and VRAM-aware workload handling
+📊 Nightframe Pulse
 
-Nightframe Pulse
+Nightframe Pulse gives you a live view of your system and active workloads.
 
-Nightframe Pulse is the built-in system and workload dashboard.
-
-Live CPU and memory monitoring
-
-GPU and VRAM monitoring when supported
-
-NVIDIA, AMD, and Intel GPU telemetry
-
-Detection of active games and creator applications
-
-Ollama and local model status
-
-Flux mode and action history
-
+CPU and memory monitoring
+GPU and VRAM monitoring
+NVIDIA, AMD, and Intel telemetry when supported
+Active game detection
+Creator application detection
+Ollama model status
+Current Flux activity
+Recent system actions
 Full dashboard
-
 Compact always-on-top HUD
-
 System tray controls
 
-Nightframe Flux
-
-Nightframe Flux coordinates gaming, AI, and creator workloads.
+⚡ Nightframe Flux
+Nightframe Flux automatically coordinates gaming, AI, and creator workloads.
 
 Gaming, AI, Creator, Quiet, Balanced, and automatic behavior
-
 Ask Me, Smart Automatic, and Monitor Only policies
-
-Can unload Ollama models to free VRAM before gaming
-
-Can request performance or power-saving profiles
-
-Can enable Do Not Disturb
-
-Can keep GameMode active
-
-Can prevent sleep during long-running workloads
-
-Records managed changes
-
+Frees VRAM by unloading Ollama models before gaming
+Requests performance or power-saving profiles
+Enables Do Not Disturb when needed
+Holds GameMode active during gaming sessions
+Prevents sleep during long workloads
+Records every managed system change
 Restores the previous system state when finished
-
 Runs locally without exposing a network service
 
-Privacy
-
-No Nightframe telemetry
-
+🔒 Privacy Focused
+No telemetry, no spying, no BS
 LibreWolf included
-
 Tor tools included
-
 Local-first AI support
+User-controlled updates
+User-controlled background services
 
-User-controlled services and updates
-
-Screenshots
-
-Replace the placeholders below with real screenshots stored in an images folder.
-
-Desktop
+🖼️ Screenshots
 
 
-
-Start Menu
-
-
-
-Nightframe Pulse
-
-
-
-Nightframe Flux
-
-
-
-Installer
-
-
-
-Gaming and AI
-
-
-
-Download
-
-Download the latest Nightframe ISO from the GitHub Releases page:
-
-Download Nightframe Linux
-
-After downloading the ISO, write it to a USB drive using a raw image writer.
-
-Recommended tools:
-
-Rufus on Windows
-
-balenaEtcher
-
-GNOME Disks
-
-dd on Linux
-
-When Rufus asks which write mode to use, select DD Image mode.
-
-Installation
-
-Download the latest ISO.
-
-Write the ISO to a USB drive.
-
-Boot the computer from the USB drive.
-
-Open Install Nightframe Linux.
-
-Select the correct target drive.
-
-Review the partitioning summary carefully.
-
-Complete the installation.
-
-Remove the USB drive when prompted and restart.
-
-Back up important data before changing partitions or installing an operating system.
-
-System Requirements
-
-Recommended minimum:
-
-64-bit x86 computer
-
+💻 Recommended Requirements
+64-bit computer
 8 GB RAM
-
 40 GB available storage
-
+UEFI or legacy BIOS
 USB drive large enough for the ISO
 
-UEFI or legacy BIOS support
+A supported dedicated GPU and additional RAM are recommended for modern gaming and larger local AI models.
 
-For local AI models and modern games, more RAM, storage, and a supported GPU are recommended.
+💬 Community and Support
 
-Support
-
-Join the Nightframe Discord for support, feedback, and project updates:
-
-Nightframe Discord
-
-When reporting a problem, include:
-
-Nightframe version
-
-Computer model
-
-CPU and GPU
-
-RAM
-
-Installation method
-
-Whether the problem happened in the live session or installed system
-
-Screenshots or logs
-
-Steps needed to reproduce the issue
-
-Project Status
-
-Nightframe is an independent Linux distribution under active development.
-
-Before installing a new release on important hardware, test it in a virtual machine or on a spare computer and keep backups of important files.
-
-Created By
-
-Nightframe Linux was created by Yurki K.
-
-View Yurki K on LinkedIn
+Join the Nightframe Discord for support, feedback, development updates, and release announcements.
