@@ -67,7 +67,15 @@ Nightframe Flux coordinates gaming, AI, and creator workloads.
 
 ## Screenshots
 
-Replace the placeholders below with real screenshots stored in an `images` folder.
+
+<img width="1025" height="637" alt="Screenshot 2026-07-27 020153" src="https://github.com/user-attachments/assets/7be23d65-9d3d-4df3-8728-0dcc7a3f5d95" />
+<img width="967" height="597" alt="Screenshot 2026-07-27 020306" src="https://github.com/user-attachments/assets/155f709e-718b-499a-be23-70f776f352b1" />
+<img width="896" height="600" alt="Screenshot 2026-07-27 020429" src="https://github.com/user-attachments/assets/fb3a06c9-6f6d-4913-8ba5-8c85df71ad1c" />
+<img width="754" height="598" alt="Screenshot 2026-07-27 020441" src="https://github.com/user-attachments/assets/9cc44fed-efd6-4b68-8a2d-f1b0e15b3b70" />
+<img width="1021" height="642" alt="Screenshot 2026-07-27 020507" src="https://github.com/user-attachments/assets/238cdd06-3df3-44bf-876b-2265549e3b17" />
+<img width="1012" height="551" alt="Screenshot 2026-07-27 020546" src="https://github.com/user-attachments/assets/8172cdf5-3bd6-41f4-8b3c-9389b4e0d03f" />
+
+
 
 ### Desktop
 
